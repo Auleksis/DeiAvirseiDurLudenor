@@ -1,0 +1,11 @@
+{
+  "com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle": {
+    "default": {
+      "vScroll": "scrollpanevScrollRight",
+      "hScrollKnob": "scrollPanelHCursorKnob",
+      "background": "scrollpaneBackground",
+      "hScroll": "scrollpanehScrollRight",
+      "vScrollKnob": "scrollPanelVCursorKnob"
+    }
+  }
+}

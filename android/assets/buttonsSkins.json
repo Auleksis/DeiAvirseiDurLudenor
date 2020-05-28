@@ -1,0 +1,66 @@
+{
+  "com.badlogic.gdx.graphics.g2d.BitmapFont":{
+    "default-font":{
+      "file":"font.fnt"
+    }
+  },
+  "com.badlogic.gdx.graphics.Color":{
+    "green":{
+      "a":1,
+      "b":0,
+      "g":1,
+      "r":0
+    },
+    "white":{
+      "a":1,
+      "b":1,
+      "g":1,
+      "r":1
+    },
+    "red":{
+      "a":1,
+      "b":0,
+      "g":0,
+      "r":1
+    },
+    "black":{
+      "a":1,
+      "b":0,
+      "g":0,
+      "r":0
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle":{
+    "threeDotMenu":{
+      "down":"menuExit",
+      "up":"menuExit",
+      "font":"default-font",
+      "fontColor":"black"
+    },
+    "menuStart": {
+      "down":"startdown",
+      "up":"startup",
+      "font":"default-font",
+      "fontColor":"black"
+    },
+    "menuExit": {
+      "down":"exitdown",
+      "up":"exitup",
+      "font":"default-font",
+      "fontColor":"black"
+    },
+    "playButton": {
+      "down":"startPlay",
+      "up":"startPlay",
+      "font":"default-font",
+      "fontColor":"black"
+    },
+    "defButton": {
+      "down":"c6",
+      "up":"c5",
+      "font":"default-font",
+      "fontColor":"black"
+    }
+  }
+
+}
